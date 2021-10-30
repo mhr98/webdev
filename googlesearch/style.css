@@ -1,0 +1,64 @@
+.searchbox{
+    width:65%;
+    margin-left: 17.5%;
+    margin-top: 1rem;
+    padding: 0.2cm;
+    font-size: 20px;
+
+}
+
+h1 {
+    width:50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    padding: 0.2cm;
+    font-size: 40px;
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+
+}
+.butt{
+    height: 50px;
+    width: 120px;
+    font-size: 14px;
+    text-align: center;
+    padding: 0.2cm;
+    margin: 0.5cm;
+    
+}
+@media (max-width: 599px){
+    .searchbox{
+        width:50%;
+        margin-left: 25%;
+        margin-top: 5%;
+        padding: 0.2cm;
+        font-size: 20px;
+    
+    }
+    
+    h1 {
+        text-align: center;
+        width:50%;
+        margin-left: 25%;
+        margin-top: 10%;
+        font-size: 30px;
+    }
+    
+    .buttons{
+        
+    
+    }
+    .butt{
+        height: 40px;
+        width: 100px;
+        font-size: 12px;
+        text-align: center;
+        margin: 0.2cm;
+        
+    }
+    
+}
+
